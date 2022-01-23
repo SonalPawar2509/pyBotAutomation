@@ -1,0 +1,3 @@
+bot should handle error events gracefully
+    * when the content not passed as json the incorrect input is not handled properly
+    * We cannot test for any edge conditions
